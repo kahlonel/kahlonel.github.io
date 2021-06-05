@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compilations</title>
+    <link>https://blog.kahlonel.io/</link>
+    <description>Recent content on Compilations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jun 2021 06:00:47 +0200</lastBuildDate><atom:link href="https://blog.kahlonel.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://blog.kahlonel.io/posts/test/</link>
+      <pubDate>Sat, 05 Jun 2021 06:00:47 +0200</pubDate>
+      
+      <guid>https://blog.kahlonel.io/posts/test/</guid>
+      <description>This is a test post Let&amp;rsquo;s see how it looks.
+int main(void) { int i = 0; for(i=0; i&amp;lt;100; i++) { printf(&amp;#34;%s%d\n&amp;#34;,&amp;#34;hello world&amp;#34;,47); } return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
